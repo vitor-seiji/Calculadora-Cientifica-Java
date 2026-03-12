@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\r\n\ Calculadora\ b\u00E1sica\ com\ opera\u00E7\u00F5es\ de\ adi\u00E7\u00E3o,\ subtra\u00E7\u00E3o,\ multiplica\u00E7\u00E3o\ e\ divis\u00E3o\r\n\ \r\n\ @author\ Vitor\ Seiji\ Colombo\ Nishida\r\n\ @author\ Pedro\ Cione\ Barbosa\r\n\ @version\ 11/03/2026\r\n
+comment1.params=
+comment1.target=Calculadora()
+comment2.params=str
+comment2.target=double\ calcular(java.lang.String[])
+numComments=3
